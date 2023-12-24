@@ -1,0 +1,53 @@
+{
+    "WBUI2": {
+      "settings": {
+          "OpenButton": 0,
+          "HideIcon": false,
+          "HideIconAfter": 60,
+          "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+          "DisableIconText": false,
+          "IconPosition": 0,
+          "IconTextColor": 0,
+          "OpenOnStart": true,
+          "OpenOnStartOnlyNewPlayers": false,
+          "UpdateInterval": 12
+        },
+      "tabs": [
+        {
+          "tab1": {
+            "layout": 3,
+            "buttontext": "Welcome",
+            "title1": "Welcome to Scrubs ASA",
+            "title2": "Community Locations",
+            "title3": "Server News",
+            "text1": "Get back here any time by pressing F1 on PC or using the radial menu on console. You can find important server information here. This server is open to PC, Playstation, and Xbox players. If you have nice respectful friends you can invite them.",
+            "text2": "<TextStyle.LightBlue>-The Library:</> 43 Lat 69 Long. A place for us to share recipies. Includes powered crafting stations.\n\n*Message LadyMourg on Discord to add community locations. Please provide the location name, brief description, and coordinates.",
+            "text3": "<TextStyle.LightBlue>CURRENT EVENT:</> Winter Wonderland (12/21-1/7)\n\n<TextStyle.LightBlue>-12/24/2023:</>Based on player feedback, turned eels into otters. Jellyfish are back in. Fixed code so Titanosaurs should be out as intended. Giant bee honey should now stack.",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+        },
+        {
+          "tab2": {
+            "layout": 4,
+            "buttontext": "PVE Server Settings",
+            "title1": "General",
+            "title2": "Overrides",
+            "title3": "Dino",
+            "title4": "Player",
+            "text1": "-Always Allow Structure Pickup - True\n\n-Placement Collision Disabled\n\n-Unlimited Respecs\n\n-Max difficulty (Wild Dino cap 150)\n\n-Non-permanent diseases\n\n-Stack Size Multiplyer x10\n\n-Auto Unlock Engrams on Leveling\n\n-Allow dino, player, and flyer speed leveling\n\n-Friendly fire disabled",
+            "text2": "-Ichthyornis: Morphed into Trilobite\n\n-Ledsichthys: Morphed into Anglerfish\n\n-Pegomastax: Morphed into Parasaur\n\n-Titanosaur: Morphed into Quetz\n\n-Microraptor: Morphed into Otter\n\n-Eel: Morphed into Otter\n\n-Raw mutton, raw prime meat, raw prime fish meat, and giant honey should stack to 100",
+            "text3": "-Taming Speed: 2x\n\n-Tamed dino Weight 5x\n\n-Tamed dino speed 2x\n\n-Baby Food Consumption: 1\n\n-Lay Egg Interval: 1\n\n-Mating interval: 0.16\n\n-Egg Hatch Speed: 15\n\n-Baby Mature Speed: 37\n\n-Bay Cuddle Interval: 0.01\n\n-Cuddle Grace Period: 5\n\n-Baby Cuddle Lose Imprint Quality: 0.1\n\n-Baby Imprint Amount Multiplier: 1000\n\n",
+            "text4": "-Player Weight: 5x\n\n-Player Speed: 2x\n\n-Player Fortitude: 5x",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+      ],
+      "links": [
+        {
+          "link1": {
+            "text": "Link to discord",
+            "url": "https://discord.gg/Kpq7x5auea"
+          }
+        },
+      ]
+    }
+  }

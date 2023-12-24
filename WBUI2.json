@@ -40,13 +40,50 @@
             "text4": "-Player Weight: 5x\n\n-Player Speed: 2x\n\n-Player Fortitude: 5x",
             "imageurl": "https://i.imgur.com/mGt3cAF.png"
           }
-      ],
-      "links": [
-        {
-          "link1": {
-            "text": "Link to discord",
-            "url": "https://discord.gg/Kpq7x5auea"
-          }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.com/invite/K7NyrTV"
         }
-      ]
-    }
+      },
+      {
+        "link2": {
+          "text": "Wiki",
+          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+        }
+      },
+      {
+        "link3": {
+          "text": "CurseForge",
+          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+        }
+      },
+      {
+        "link4": {
+          "text": "JSON-Validator",
+          "url": "https://jsonlint.com"
+        }
+      },
+      {
+        "link5": {
+          "text": "Github",
+          "url": "https://github.com"
+        }
+      },
+      {
+        "link6": {
+          "text": "Imgur",
+          "url": "https://imgur.com"
+        }
+      },
+      {
+        "link7": {
+          "text": "Example JSON",
+          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+        }
+      }
+    ]
+  }
+}
